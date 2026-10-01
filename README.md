@@ -1,0 +1,1 @@
+This repo starts with the foundation: a Ram class that models byte-addressable memory with bounds-checked reads and writes, throwing a "segmentation fault" error on invalid addresses. It's the first building block toward a fuller simulation that will include a memory manager and a terminal/shell.
